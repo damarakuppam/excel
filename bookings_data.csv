@@ -1,0 +1,63 @@
+date,property_id,property_name,property_type,city,city_code,room_id,room_class,successful_bookings,capacity,Availability Status,Month_Name
+1/6/2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT2,Elite,30,30,sold out,January
+1/6/2022,16563,Atliq Palace,Business,Delhi,+91 11,RT1,Standard,41,41,sold out,January
+1/6/2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT1,Standard,20,20,sold out,January
+1/6/2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT3,Premium,4,27,vacant,January
+1/6/2022,16563,Atliq Palace,Business,Delhi,+91 11,RT3,Premium,7,20,vacant,January
+1/6/2022,16563,Atliq Palace,Business,Delhi,+91 11,RT4,Presidential,3,18,vacant,January
+1/6/2022,16563,Atliq Palace,Business,Delhi,+91 11,RT2,Elite,9,38,vacant,January
+3/6/2022,16563,Atliq Palace,Business,Delhi,+91 11,RT4,Presidential,5,18,vacant,March
+3/6/2022,16563,Atliq Palace,Business,Delhi,+91 11,RT2,Elite,12,38,vacant,March
+3/6/2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT2,Elite,30,30,sold out,March
+3/6/2022,16563,Atliq Palace,Business,Delhi,+91 11,RT1,Standard,15,41,vacant,March
+3/6/2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT1,Standard,7,20,vacant,March
+3/6/2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT3,Premium,27,27,sold out,March
+3/6/2022,16563,Atliq Palace,Business,Delhi,+91 11,RT3,Premium,9,20,vacant,March
+3/6/2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT4,Presidential,2,6,vacant,March
+6/6/2022,16563,Atliq Palace,Business,Delhi,+91 11,RT2,Elite,9,38,vacant,June
+6/6/2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT2,Elite,4,30,vacant,June
+6/6/2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT1,Standard,2,20,vacant,June
+6/6/2022,16563,Atliq Palace,Business,Delhi,+91 11,RT1,Standard,9,41,vacant,June
+6/6/2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT3,Premium,4,27,vacant,June
+6/6/2022,16563,Atliq Palace,Business,Delhi,+91 11,RT3,Premium,4,20,vacant,June
+6/6/2022,16563,Atliq Palace,Business,Delhi,+91 11,RT4,Presidential,5,18,vacant,June
+6/6/2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT4,Presidential,1,6,vacant,June
+9/6/2022,16563,Atliq Palace,Business,Delhi,+91 11,RT2,Elite,9,38,vacant,September
+9/6/2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT2,Elite,30,30,sold out,September
+9/6/2022,16563,Atliq Palace,Business,Delhi,+91 11,RT1,Standard,12,41,vacant,September
+9/6/2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT1,Standard,4,20,vacant,September
+9/6/2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT3,Premium,27,27,sold out,September
+9/6/2022,16563,Atliq Palace,Business,Delhi,+91 11,RT3,Premium,5,20,vacant,September
+9/6/2022,16563,Atliq Palace,Business,Delhi,+91 11,RT4,Presidential,4,18,vacant,September
+9/6/2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT4,Presidential,6,6,sold out,September
+13-06-2022,16563,Atliq Palace,Business,Delhi,+91 11,RT2,Elite,9,38,vacant,
+13-06-2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT2,Elite,6,30,vacant,
+13-06-2022,16563,Atliq Palace,Business,Delhi,+91 11,RT1,Standard,12,41,vacant,
+13-06-2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT1,Standard,1,20,vacant,
+13-06-2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT3,Premium,27,27,sold out,
+13-06-2022,16563,Atliq Palace,Business,Delhi,+91 11,RT3,Premium,6,20,vacant,
+13-06-2022,16563,Atliq Palace,Business,Delhi,+91 11,RT4,Presidential,8,18,vacant,
+17-06-2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT2,Elite,4,30,vacant,
+17-06-2022,16563,Atliq Palace,Business,Delhi,+91 11,RT1,Standard,41,41,sold out,
+17-06-2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT1,Standard,5,20,vacant,
+17-06-2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT3,Premium,27,27,sold out,
+17-06-2022,16563,Atliq Palace,Business,Delhi,+91 11,RT2,Elite,38,38,sold out,
+17-06-2022,16563,Atliq Palace,Business,Delhi,+91 11,RT3,Premium,20,20,sold out,
+17-06-2022,16563,Atliq Palace,Business,Delhi,+91 11,RT4,Presidential,18,18,sold out,
+17-06-2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT4,Presidential,1,6,vacant,
+20-06-2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT3,Premium,3,27,vacant,
+20-06-2022,16563,Atliq Palace,Business,Delhi,+91 11,RT2,Elite,38,38,sold out,
+20-06-2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT2,Elite,30,30,sold out,
+20-06-2022,16563,Atliq Palace,Business,Delhi,+91 11,RT1,Standard,41,41,sold out,
+20-06-2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT1,Standard,4,20,vacant,
+20-06-2022,16563,Atliq Palace,Business,Delhi,+91 11,RT3,Premium,6,20,vacant,
+20-06-2022,16563,Atliq Palace,Business,Delhi,+91 11,RT4,Presidential,5,18,vacant,
+20-06-2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT4,Presidential,6,6,sold out,
+22-06-2022,16563,Atliq Palace,Business,Delhi,+91 11,RT2,Elite,38,38,sold out,
+22-06-2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT2,Elite,30,30,sold out,
+22-06-2022,16563,Atliq Palace,Business,Delhi,+91 11,RT1,Standard,25,41,vacant,
+22-06-2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT1,Standard,3,20,vacant,
+22-06-2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT3,Premium,27,27,sold out,
+22-06-2022,16563,Atliq Palace,Business,Delhi,+91 11,RT3,Premium,20,20,sold out,
+22-06-2022,16563,Atliq Palace,Business,Delhi,+91 11,RT4,Presidential,18,18,sold out,
+22-06-2022,17562,Atliq Bay,Luxury,Mumbai,+91 22,RT4,Presidential,1,6,vacant,
